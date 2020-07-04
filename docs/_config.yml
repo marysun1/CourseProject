@@ -1,1 +1,7 @@
+name: "Course Project"
+output_dir: "docs"
+title: "Course Project"
+href: CourseProject.html
+output:
+html_document:
 theme: jekyll-theme-cayman
